@@ -1,1 +1,1 @@
-# Shopsmart
+# Shopsmart: your digital grocery store experience 
