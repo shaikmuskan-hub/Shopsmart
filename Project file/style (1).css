@@ -1,0 +1,88 @@
+/* General Body */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f8f9fa;
+}
+
+/* Navbar */
+.navbar {
+  background-color: #198754 !important;
+}
+.navbar .navbar-brand,
+.navbar .nav-link,
+.navbar .btn {
+  color: white !important;
+}
+.navbar .btn-outline-success,
+.navbar .btn-outline-warning,
+.navbar .btn-outline-primary {
+  border: none;
+}
+
+/* Header */
+header {
+  background: linear-gradient(to right, #198754, #28a745);
+  color: white;
+  border-radius: 10px;
+}
+
+/* Search Bar */
+#categorySearch {
+  border-radius: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+/* Product Cards */
+.card {
+  border: none;
+  transition: transform 0.2s ease, box-shadow 0.3s ease;
+}
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+}
+.card img {
+  object-fit: cover;
+  height: 200px;
+  border-radius: 10px 10px 0 0;
+}
+
+/* Product Buttons */
+.card .btn {
+  font-size: 0.9rem;
+  border-radius: 20px;
+}
+.btn-outline-danger {
+  color: #dc3545;
+  border: 1px solid #dc3545;
+}
+.btn-outline-danger:hover {
+  background-color: #dc3545;
+  color: white;
+}
+.btn-primary {
+  background-color: #198754;
+  border-color: #198754;
+}
+.btn-primary:hover {
+  background-color: #146c43;
+  border-color: #146c43;
+}
+.btn-success {
+  background-color: #20c997;
+  border-color: #20c997;
+}
+.btn-success:hover {
+  background-color: #17a589;
+  border-color: #17a589;
+}
+
+/* Footer (if you want one later) */
+footer {
+  background-color: #198754;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+  margin-top: 3rem;
+}
