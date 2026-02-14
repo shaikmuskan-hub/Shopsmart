@@ -3,14 +3,6 @@
 ShopSmart is a user-friendly and efficient online grocery store web application. It allows customers to browse, search, and purchase grocery items online with ease. It also features a secure admin panel for managing products and orders.
 
 ---
-
-## 🎬 Demo
-
-📽️ **Watch Project Demo Video:**  
-👉 [Click Here](https://drive.google.com/file/d/1npDzANr0_yQ9ahc1rsONG8BpFcjdmzxk/view?usp=sharing)
-
-
-
 ## ✨ Key Features
 
 ### 👥 User Features
@@ -73,21 +65,3 @@ Run backend server:
 Open index.html from the frontend folder in a browser.
 
 ---
-
-## 👩‍💻 **Developed By**
-
-**Shaik Mehtaj and Team**  
-🎓 **B.Tech (AIML), Final Year**  
-📫 **Email:** [mehtaj1014@gmail.com](mailto:mehtaj1014@gmail.com)
-
----
-
-## 📜 **License**
-
-This project is for **educational and academic purposes only**.  
-**All rights reserved** to the author.
-
----
-
-
-
