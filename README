@@ -1,0 +1,44 @@
+shopsmart: your digital grocery store experience
+ShopSmart is a user-friendly and efficient online grocery store web application. It allows customers to browse, search, and purchase grocery items online with ease. It also features a secure admin panel for managing products and orders.
+
+✨ Key Features
+👥 User Features
+User Registration and Login
+Browse products with image, name, price
+Add to Cart and Place Orders (COD support)
+View Order History
+Search Products
+🛠️ Admin Features
+Admin Login
+Add/Edit/Delete Products
+View All Orders
+Update Order Status
+Admin Dashboard for management
+🧱 Tech Stack Used
+Layer	Technology
+Frontend	HTML, CSS, JavaScript, Bootstrap
+Backend	Node.js, Express.js
+Database	MongoDB (MongoDB Atlas)
+Others	Google Fonts, REST APIs
+📸 Screenshots
+🔹 Home Page
+Home Page
+
+🔹 Order Page
+Order Page
+
+🔹 Admin Dashboard
+Admin Panel
+
+🔹 Add Products using Admin Panel
+Product Panel
+
+🚀 How to Run Locally
+Download or clone the project
+Open terminal and install backend dependencies:
+cd backend
+npm install
+Set up your MongoDB Atlas URI in .env file:
+MONGODB_URI=your_mongo_uri Run backend server:
+
+node server.js Open index.html from the frontend folder in a browser.
